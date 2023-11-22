@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shopping store</string>
+    <!-- <string name="facebook_app_id">999558534604403</string>
+    <string name="fb_login_protocol_scheme">fb999558534604403</string>
+    <string name="facebook_client_token">6788fe9c79af831b8888385aee4c0f1a</string> -->
+    <string name="google_map_api_key"></string>
+</resources>
